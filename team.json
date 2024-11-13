@@ -1,0 +1,27 @@
+[
+    {
+      "name": "John Doe",
+      "role": "Project Lead",
+      "bio": "Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.",
+      "image": "/w3images/team2.jpg"
+    },
+    {
+      "name": "Anja Doe",
+      "role": "Data Scientist",
+      "bio": "Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.",
+      "image": "/w3images/team1.jpg"
+    },
+    {
+      "name": "Mike Ross",
+      "role": "Developer",
+      "bio": "Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.",
+      "image": "/w3images/team3.jpg"
+    },
+    {
+      "name": "Dan Star",
+      "role": "Designer",
+      "bio": "Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.",
+      "image": "/w3images/team4.jpg"
+    }
+  ]
+  
